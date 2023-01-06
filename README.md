@@ -1,8 +1,7 @@
-Se puede encontrar la aplicación en https://mymedicalappointments.herokuapp.com/
-
-En ocasiones hay que recargar la página varias veces hasta que Heroku pueda servirla.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cómo iniciar la aplicación:
+- Se tienen que correr los 2 repositorios que conforman este proyecto, uno es este en el que está configurado todo el Frontend y el otro proyecto contiene todo el Backend.
+
 
 Cómo usar la aplicación:
 - Se puede acceder a la sección de Doctors para que los nuevos usuarios se den una idea de los servicios que se ofrecen.
